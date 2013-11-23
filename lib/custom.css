@@ -1,0 +1,6 @@
+@font-face {font-family:"SolaimanLipi";url("fonts/SolaimanLipi.ttf") format("truetype");font-weight:normal;font-style:normal;}
+#bangla{font-family:"SolaimanLipi"}
+.container{padding:0 !important}
+.container img{width:100%;height:auto;}
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page{position:relative !important;}
+.ui-header .ui-title, .ui-footer .ui-title{margin-left:5px; margin-right:5px;}
